@@ -87,7 +87,6 @@ This was my first time seeing MITRE ATT&CK in action rather than just reading ab
 
 - Ubuntu 25.04 wasn't officially supported by Wazuh — fixed using --ignore-check flag
 - Wazuh Agent kept pointing to wrong Manager IP — fixed using sed command
-- Network configuration between VMs took multiple attempts to get right
 
 I'm including these because troubleshooting is a big part of real SOC work.
 
