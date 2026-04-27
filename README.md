@@ -96,7 +96,7 @@ I'm including these because troubleshooting is a big part of real SOC work.
 
 - `wazuh_report.pdf` — Official security events report exported from Wazuh
 - `screenshots/` — Dashboard evidence of detection
-- `HomeSOCLab_Guide` — A guide on how to setup the lab written by me
+- `HomeSOCLab_Guide.pdf` — A guide on how to setup the lab written by me
 
 ## Tools Used
 
